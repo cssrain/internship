@@ -6,10 +6,11 @@
     "sitename": "首页",
     "github": "https://github.com/cssrain/internship",
 	"navigation": [
-	    {"link": "en/index.html", "title": "导师制度"},
-	    {"link": "zh/index.html", "title": "技能大纲"},
-	    {"link": "zh/index.html", "title": "成长计划"},
-	    {"link": "zh/index.html", "title": "成果展现"}
+	    {"link": "./tech/student/index.html", "title": "新人部分"},
+        {"link": "./tech/teacher/index.html", "title": "导师部分"},
+	    {"link": "./skill/skill/uedskill.html", "title": "技能大纲"},
+	    {"link": "./grow/index.html", "title": "成长计划"},
+	    {"link": "./result/index.html", "title": "成果展现"}
 	],
     "writers": [
         "nico.PostWriter",
