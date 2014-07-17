@@ -1,0 +1,19 @@
+{
+    "source": "content",
+    "output": "_site",
+    "theme": "themes/one",
+    "permalink": "{{directory}}/{{filename}}.html",
+    "sitename": "首页",
+    "github": "https://github.com/cssrain/internship",
+	"navigation": [
+	    {"link": "en/index.html", "title": "导师制度"},
+	    {"link": "zh/index.html", "title": "技能大纲"},
+	    {"link": "zh/index.html", "title": "成长计划"},
+	    {"link": "zh/index.html", "title": "成果展现"}
+	],
+    "writers": [
+        "nico.PostWriter",
+        "nico.FileWriter",
+        "nico.StaticWriter"
+    ]
+}
