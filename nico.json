@@ -1,7 +1,7 @@
 {
     "source": "content",
     "output": "_site",
-    "theme": "themes/one",
+    "theme": "_themes/one",
     "permalink": "{{directory}}/{{filename}}.html",
     "sitename": "首页",
     "github": "https://github.com/cssrain/internship",
