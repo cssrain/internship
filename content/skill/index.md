@@ -1,7 +1,7 @@
 # 技能部分
 
-- pubdate: 2012-12-12
+- pubdate: 2014-7-21
 
 ------
 
-Hello World, Hello Nico.
+[通用技能和专业技能](./skill/uedskill.html)
